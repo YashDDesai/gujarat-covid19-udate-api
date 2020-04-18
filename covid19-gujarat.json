@@ -1,19 +1,19 @@
 {
-  "quarantined": "15914",
+  "quarantined": "16925",
   "confirmed": {
-    "total": "1099",
-    "new": "170"
+    "total": "1272",
+    "new": "173"
   },
   "tested": {
-    "total": "23438",
-    "new": "2535"
+    "total": "24614",
+    "new": "1176"
   },
   "recovered": {
-    "total": "86",
-    "new": "13"
+    "total": "88",
+    "new": "2"
   },
   "deaths": {
-    "total": "41",
-    "new": "5"
+    "total": "48",
+    "new": "7"
   }
 }
