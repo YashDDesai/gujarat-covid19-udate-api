@@ -10,6 +10,11 @@ const app = express()
 
 
 app.set('case sensitive routing', false);
+
+app.get('/', (req, res)=>{
+    res.sendFile(__dirname + "/index.html");
+})
+
 app.get('/gujarat', (req, res)=>{
     res.sendFile(__dirname + "/covid19-gujarat.json");
 })
