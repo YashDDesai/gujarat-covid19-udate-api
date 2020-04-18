@@ -1,0 +1,525 @@
+{
+  "districts": [
+    {
+      "confirmed": {},
+      "tested": {},
+      "recovered": {}
+    },
+    {
+      "name": "Ahmedabad",
+      "quarantined": "3753",
+      "deaths": "21",
+      "confirmed": {
+        "total": "622",
+        "new": "77"
+      },
+      "tested": {
+        "total": "8811",
+        "new": "860"
+      },
+      "recovered": {
+        "total": "24",
+        "new": "3"
+      }
+    },
+    {
+      "name": "Amreli",
+      "quarantined": "2432",
+      "deaths": "0",
+      "confirmed": {
+        "total": "0"
+      },
+      "tested": {
+        "total": "329",
+        "new": "30"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Anand",
+      "quarantined": "1051",
+      "deaths": "0",
+      "confirmed": {
+        "total": "26",
+        "new": "1"
+      },
+      "tested": {
+        "total": "304",
+        "new": "20"
+      },
+      "recovered": {
+        "total": "3",
+        "new": "3"
+      }
+    },
+    {
+      "name": "Aravalli",
+      "quarantined": "909",
+      "deaths": "0",
+      "confirmed": {
+        "total": "1"
+      },
+      "tested": {
+        "total": "171",
+        "new": "23"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Banaskantha",
+      "quarantined": "19",
+      "deaths": "0",
+      "confirmed": {
+        "total": "9",
+        "new": "3"
+      },
+      "tested": {
+        "total": "229",
+        "new": "26"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Bharuch",
+      "quarantined": "240",
+      "deaths": "0",
+      "confirmed": {
+        "total": "21",
+        "new": "8"
+      },
+      "tested": {
+        "total": "348",
+        "new": "115"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Bhavnagar",
+      "quarantined": "243",
+      "deaths": "3",
+      "confirmed": {
+        "total": "26"
+      },
+      "tested": {
+        "total": "1235",
+        "new": "118"
+      },
+      "recovered": {
+        "total": "10"
+      }
+    },
+    {
+      "name": "Botad",
+      "quarantined": "19",
+      "deaths": "1",
+      "confirmed": {
+        "total": "4",
+        "new": "3"
+      },
+      "tested": {
+        "total": "166",
+        "new": "24"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Chhota Udaipur",
+      "quarantined": "11",
+      "deaths": "0",
+      "confirmed": {
+        "total": "6",
+        "new": "1"
+      },
+      "tested": {
+        "total": "76",
+        "new": "12"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Dahod",
+      "quarantined": "318",
+      "deaths": "0",
+      "confirmed": {
+        "total": "3",
+        "new": "1"
+      },
+      "tested": {
+        "total": "130",
+        "new": "36"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Dang",
+      "quarantined": "103",
+      "deaths": "0",
+      "confirmed": {
+        "total": "0"
+      },
+      "tested": {
+        "total": "51"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Devbhoomi Dwarka",
+      "quarantined": "392",
+      "deaths": "0",
+      "confirmed": {
+        "total": "0"
+      },
+      "tested": {
+        "total": "147",
+        "new": "10"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Gandhinagar",
+      "quarantined": "216",
+      "deaths": "1",
+      "confirmed": {
+        "total": "17"
+      },
+      "tested": {
+        "total": "355",
+        "new": "35"
+      },
+      "recovered": {
+        "total": "9"
+      }
+    },
+    {
+      "name": "Gir Somnath",
+      "quarantined": "28",
+      "deaths": "0",
+      "confirmed": {
+        "total": "2"
+      },
+      "tested": {
+        "total": "57"
+      },
+      "recovered": {
+        "total": "1"
+      }
+    },
+    {
+      "name": "Jamnagar",
+      "quarantined": "682",
+      "deaths": "1",
+      "confirmed": {
+        "total": "1"
+      },
+      "tested": {
+        "total": "423",
+        "new": "50"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Junagadh",
+      "quarantined": "82",
+      "deaths": "0",
+      "confirmed": {
+        "total": "0"
+      },
+      "tested": {
+        "total": "228",
+        "new": "10"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Kutch",
+      "quarantined": "1234",
+      "deaths": "1",
+      "confirmed": {
+        "total": "4"
+      },
+      "tested": {
+        "total": "234",
+        "new": "16"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Kheda",
+      "quarantined": "164",
+      "deaths": "0",
+      "confirmed": {
+        "total": "3",
+        "new": "1"
+      },
+      "tested": {
+        "total": "254",
+        "new": "34"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Mahisagar",
+      "quarantined": "57",
+      "deaths": "0",
+      "confirmed": {
+        "total": "1",
+        "new": "1"
+      },
+      "tested": {
+        "total": "93",
+        "new": "15"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Mehsana",
+      "quarantined": "83",
+      "deaths": "0",
+      "confirmed": {
+        "total": "4"
+      },
+      "tested": {
+        "total": "113",
+        "new": "33"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Morbi",
+      "quarantined": "8",
+      "deaths": "0",
+      "confirmed": {
+        "total": "1"
+      },
+      "tested": {
+        "total": "82",
+        "new": "5"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Narmada",
+      "quarantined": "86",
+      "deaths": "0",
+      "confirmed": {
+        "total": "11",
+        "new": "5"
+      },
+      "tested": {
+        "total": "299",
+        "new": "68"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Navsari",
+      "quarantined": "9",
+      "deaths": "0",
+      "confirmed": {
+        "total": "0"
+      },
+      "tested": {
+        "total": "323"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Panchmahal",
+      "quarantined": "159",
+      "deaths": "1",
+      "confirmed": {
+        "total": "8",
+        "new": "2"
+      },
+      "tested": {
+        "total": "69",
+        "new": "12"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Patan",
+      "quarantined": "68",
+      "deaths": "1",
+      "confirmed": {
+        "total": "15",
+        "new": "1"
+      },
+      "tested": {
+        "total": "206",
+        "new": "11"
+      },
+      "recovered": {
+        "total": "11",
+        "new": "7"
+      }
+    },
+    {
+      "name": "Porbandar",
+      "quarantined": "8",
+      "deaths": "0",
+      "confirmed": {
+        "total": "3"
+      },
+      "tested": {
+        "total": "187",
+        "new": "5"
+      },
+      "recovered": {
+        "total": "3"
+      }
+    },
+    {
+      "name": "Rajkot",
+      "quarantined": "83",
+      "deaths": "0",
+      "confirmed": {
+        "total": "28"
+      },
+      "tested": {
+        "total": "854",
+        "new": "112"
+      },
+      "recovered": {
+        "total": "8"
+      }
+    },
+    {
+      "name": "Sabarkantha",
+      "quarantined": "190",
+      "deaths": "0",
+      "confirmed": {
+        "total": "1"
+      },
+      "tested": {
+        "total": "206",
+        "new": "16"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Surat",
+      "quarantined": "3098",
+      "deaths": "5",
+      "confirmed": {
+        "total": "140",
+        "new": "52"
+      },
+      "tested": {
+        "total": "5485",
+        "new": "722"
+      },
+      "recovered": {
+        "total": "10"
+      }
+    },
+    {
+      "name": "Surendranagar",
+      "quarantined": "0",
+      "deaths": "0",
+      "confirmed": {
+        "total": "0"
+      },
+      "tested": {
+        "total": "138",
+        "new": "2"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Tapi",
+      "quarantined": "0",
+      "deaths": "0",
+      "confirmed": {
+        "total": "0"
+      },
+      "tested": {
+        "total": "177",
+        "new": "54"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Vadodara",
+      "quarantined": "165",
+      "deaths": "6",
+      "confirmed": {
+        "total": "142",
+        "new": "14"
+      },
+      "tested": {
+        "total": "1390",
+        "new": "43"
+      },
+      "recovered": {
+        "total": "7"
+      }
+    },
+    {
+      "name": "Valsad",
+      "quarantined": "4",
+      "deaths": "0",
+      "confirmed": {
+        "total": "0"
+      },
+      "tested": {
+        "total": "268",
+        "new": "18"
+      },
+      "recovered": {
+        "total": "0"
+      }
+    },
+    {
+      "name": "Total",
+      "deaths": "41",
+      "confirmed": {},
+      "tested": {},
+      "recovered": {}
+    }
+  ]
+}

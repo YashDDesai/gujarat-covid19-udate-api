@@ -1,0 +1,15 @@
+{
+  "quarantined": "240",
+  "deaths": "0",
+  "confirmed": {
+    "total": "21",
+    "new": "8"
+  },
+  "tested": {
+    "total": "348",
+    "new": "115"
+  },
+  "recovered": {
+    "total": "0"
+  }
+}
