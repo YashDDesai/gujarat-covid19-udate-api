@@ -1,14 +1,13 @@
 {
-  "quarantined": "240",
+  "quarantined": "318",
   "deaths": "0",
   "confirmed": {
-    "total": "22",
-    "new": "1"
+    "total": "22"
   },
   "tested": {
-    "total": "348"
+    "total": "360"
   },
   "recovered": {
-    "total": "0"
+    "total": "2"
   }
 }

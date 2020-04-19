@@ -7,29 +7,29 @@
     },
     {
       "name": "Ahmedabad",
-      "quarantined": "3815",
-      "deaths": "25",
+      "quarantined": "3874",
+      "deaths": "29",
       "confirmed": {
-        "total": "765",
-        "new": "143"
+        "total": "1002",
+        "new": "140"
       },
       "tested": {
-        "total": "9044",
-        "new": "233"
+        "total": "10151",
+        "new": "17"
       },
       "recovered": {
-        "total": "24"
+        "total": "27"
       }
     },
     {
       "name": "Amreli",
-      "quarantined": "2592",
+      "quarantined": "2768",
       "deaths": "0",
       "confirmed": {
         "total": "0"
       },
       "tested": {
-        "total": "329"
+        "total": "341"
       },
       "recovered": {
         "total": "0"
@@ -37,14 +37,14 @@
     },
     {
       "name": "Anand",
-      "quarantined": "1369",
-      "deaths": "0",
+      "quarantined": "1383",
+      "deaths": "1",
       "confirmed": {
-        "total": "27",
+        "total": "28",
         "new": "1"
       },
       "tested": {
-        "total": "304"
+        "total": "305"
       },
       "recovered": {
         "total": "3"
@@ -52,13 +52,13 @@
     },
     {
       "name": "Aravalli",
-      "quarantined": "909",
+      "quarantined": "834",
       "deaths": "1",
       "confirmed": {
         "total": "1"
       },
       "tested": {
-        "total": "171"
+        "total": "174"
       },
       "recovered": {
         "total": "0"
@@ -66,13 +66,14 @@
     },
     {
       "name": "Banaskantha",
-      "quarantined": "28",
+      "quarantined": "32",
       "deaths": "0",
       "confirmed": {
-        "total": "8"
+        "total": "10",
+        "new": "2"
       },
       "tested": {
-        "total": "229"
+        "total": "252"
       },
       "recovered": {
         "total": "0"
@@ -80,29 +81,29 @@
     },
     {
       "name": "Bharuch",
-      "quarantined": "240",
+      "quarantined": "318",
       "deaths": "0",
       "confirmed": {
-        "total": "22",
-        "new": "1"
+        "total": "22"
       },
       "tested": {
-        "total": "348"
+        "total": "360"
       },
       "recovered": {
-        "total": "0"
+        "total": "2"
       }
     },
     {
       "name": "Bhavnagar",
-      "quarantined": "258",
-      "deaths": "3",
+      "quarantined": "266",
+      "deaths": "4",
       "confirmed": {
-        "total": "28",
+        "total": "32",
         "new": "2"
       },
       "tested": {
-        "total": "1235"
+        "total": "1360",
+        "new": "10"
       },
       "recovered": {
         "total": "10"
@@ -110,13 +111,14 @@
     },
     {
       "name": "Botad",
-      "quarantined": "28",
+      "quarantined": "115",
       "deaths": "1",
       "confirmed": {
-        "total": "4"
+        "total": "5",
+        "new": "1"
       },
       "tested": {
-        "total": "166"
+        "total": "173"
       },
       "recovered": {
         "total": "0"
@@ -124,13 +126,14 @@
     },
     {
       "name": "Chhota Udaipur",
-      "quarantined": "11",
+      "quarantined": "12",
       "deaths": "0",
       "confirmed": {
-        "total": "6"
+        "total": "7",
+        "new": "1"
       },
       "tested": {
-        "total": "76"
+        "total": "81"
       },
       "recovered": {
         "total": "0"
@@ -138,13 +141,13 @@
     },
     {
       "name": "Dahod",
-      "quarantined": "318",
+      "quarantined": "328",
       "deaths": "0",
       "confirmed": {
         "total": "2"
       },
       "tested": {
-        "total": "130"
+        "total": "145"
       },
       "recovered": {
         "total": "0"
@@ -152,7 +155,7 @@
     },
     {
       "name": "Dang",
-      "quarantined": "175",
+      "quarantined": "182",
       "deaths": "0",
       "confirmed": {
         "total": "0"
@@ -166,13 +169,13 @@
     },
     {
       "name": "Devbhoomi Dwarka",
-      "quarantined": "430",
+      "quarantined": "486",
       "deaths": "0",
       "confirmed": {
         "total": "0"
       },
       "tested": {
-        "total": "147"
+        "total": "149"
       },
       "recovered": {
         "total": "0"
@@ -180,18 +183,16 @@
     },
     {
       "name": "Gandhinagar",
-      "quarantined": "213",
-      "deaths": "1",
+      "quarantined": "232",
+      "deaths": "2",
       "confirmed": {
         "total": "17"
       },
       "tested": {
-        "total": "359",
-        "new": "4"
+        "total": "373"
       },
       "recovered": {
-        "total": "10",
-        "new": "1"
+        "total": "10"
       }
     },
     {
@@ -202,7 +203,8 @@
         "total": "2"
       },
       "tested": {
-        "total": "57"
+        "total": "63",
+        "new": "4"
       },
       "recovered": {
         "total": "1"
@@ -210,13 +212,14 @@
     },
     {
       "name": "Jamnagar",
-      "quarantined": "702",
+      "quarantined": "1016",
       "deaths": "1",
       "confirmed": {
         "total": "1"
       },
       "tested": {
-        "total": "423"
+        "total": "499",
+        "new": "1"
       },
       "recovered": {
         "total": "0"
@@ -224,13 +227,13 @@
     },
     {
       "name": "Junagadh",
-      "quarantined": "87",
+      "quarantined": "237",
       "deaths": "0",
       "confirmed": {
         "total": "0"
       },
       "tested": {
-        "total": "228"
+        "total": "271"
       },
       "recovered": {
         "total": "0"
@@ -238,13 +241,14 @@
     },
     {
       "name": "Kutch",
-      "quarantined": "1292",
+      "quarantined": "1352",
       "deaths": "1",
       "confirmed": {
         "total": "4"
       },
       "tested": {
-        "total": "234"
+        "total": "290",
+        "new": "37"
       },
       "recovered": {
         "total": "0"
@@ -252,13 +256,13 @@
     },
     {
       "name": "Kheda",
-      "quarantined": "143",
+      "quarantined": "122",
       "deaths": "0",
       "confirmed": {
-        "total": "3"
+        "total": "2"
       },
       "tested": {
-        "total": "254"
+        "total": "240"
       },
       "recovered": {
         "total": "0"
@@ -269,10 +273,10 @@
       "quarantined": "57",
       "deaths": "0",
       "confirmed": {
-        "total": "1"
+        "total": "2"
       },
       "tested": {
-        "total": "93"
+        "total": "94"
       },
       "recovered": {
         "total": "0"
@@ -280,13 +284,14 @@
     },
     {
       "name": "Mehsana",
-      "quarantined": "83",
+      "quarantined": "89",
       "deaths": "0",
       "confirmed": {
-        "total": "4"
+        "total": "5",
+        "new": "1"
       },
       "tested": {
-        "total": "113"
+        "total": "123"
       },
       "recovered": {
         "total": "0"
@@ -294,13 +299,14 @@
     },
     {
       "name": "Morbi",
-      "quarantined": "8",
+      "quarantined": "0",
       "deaths": "0",
       "confirmed": {
         "total": "1"
       },
       "tested": {
-        "total": "82"
+        "total": "84",
+        "new": "1"
       },
       "recovered": {
         "total": "0"
@@ -308,13 +314,13 @@
     },
     {
       "name": "Narmada",
-      "quarantined": "86",
+      "quarantined": "152",
       "deaths": "0",
       "confirmed": {
         "total": "11"
       },
       "tested": {
-        "total": "299"
+        "total": "329"
       },
       "recovered": {
         "total": "0"
@@ -328,7 +334,7 @@
         "total": "0"
       },
       "tested": {
-        "total": "323"
+        "total": "326"
       },
       "recovered": {
         "total": "0"
@@ -336,13 +342,13 @@
     },
     {
       "name": "Panchmahal",
-      "quarantined": "256",
-      "deaths": "1",
+      "quarantined": "317",
+      "deaths": "2",
       "confirmed": {
-        "total": "8"
+        "total": "9"
       },
       "tested": {
-        "total": "69"
+        "total": "76"
       },
       "recovered": {
         "total": "0"
@@ -356,7 +362,7 @@
         "total": "15"
       },
       "tested": {
-        "total": "206"
+        "total": "212"
       },
       "recovered": {
         "total": "11"
@@ -370,7 +376,7 @@
         "total": "3"
       },
       "tested": {
-        "total": "187"
+        "total": "193"
       },
       "recovered": {
         "total": "3"
@@ -378,45 +384,46 @@
     },
     {
       "name": "Rajkot",
-      "quarantined": "83",
+      "quarantined": "81",
       "deaths": "0",
       "confirmed": {
-        "total": "30",
-        "new": "2"
+        "total": "35",
+        "new": "5"
       },
       "tested": {
-        "total": "854"
+        "total": "1029",
+        "new": "80"
       },
       "recovered": {
-        "total": "9",
-        "new": "1"
+        "total": "9"
       }
     },
     {
       "name": "Sabarkantha",
-      "quarantined": "303",
+      "quarantined": "280",
       "deaths": "0",
       "confirmed": {
-        "total": "1"
+        "total": "2"
       },
       "tested": {
-        "total": "206"
+        "total": "228"
       },
       "recovered": {
-        "total": "0"
+        "total": "1",
+        "new": "1"
       }
     },
     {
       "name": "Surat",
-      "quarantined": "3101",
-      "deaths": "6",
+      "quarantined": "3527",
+      "deaths": "8",
       "confirmed": {
-        "total": "156",
-        "new": "16"
+        "total": "220",
+        "new": "67"
       },
       "tested": {
-        "total": "6311",
-        "new": "826"
+        "total": "6320",
+        "new": "302"
       },
       "recovered": {
         "total": "10"
@@ -430,7 +437,7 @@
         "total": "0"
       },
       "tested": {
-        "total": "138"
+        "total": "147"
       },
       "recovered": {
         "total": "0"
@@ -438,13 +445,13 @@
     },
     {
       "name": "Tapi",
-      "quarantined": "0",
+      "quarantined": "35",
       "deaths": "0",
       "confirmed": {
         "total": "0"
       },
       "tested": {
-        "total": "177"
+        "total": "178"
       },
       "recovered": {
         "total": "0"
@@ -452,15 +459,14 @@
     },
     {
       "name": "Vadodara",
-      "quarantined": "243",
+      "quarantined": "350",
       "deaths": "7",
       "confirmed": {
-        "total": "152",
-        "new": "10"
+        "total": "166",
+        "new": "8"
       },
       "tested": {
-        "total": "1503",
-        "new": "113"
+        "total": "1669"
       },
       "recovered": {
         "total": "7"
@@ -482,7 +488,7 @@
     },
     {
       "name": "Total",
-      "deaths": "48",
+      "deaths": "58",
       "confirmed": {},
       "tested": {},
       "recovered": {}
