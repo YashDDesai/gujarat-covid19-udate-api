@@ -26,7 +26,7 @@ exports.getSingleDistrict = (req, res)=>{
     let jsonURL = `https://${req.hostname}district/all`
     console.log(jsonURL)
     reQ(jsonURL, options, (error, response, body)=>{
-         if(error) throw error
+         if(error) console.log(error)
         var filtered = _.where(body.districts, {name: dist_name});
         console.log(filtered)
         res.json(filtered)
