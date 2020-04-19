@@ -119,7 +119,10 @@ exports.getAllDistricts = (req, res)=>{
                 new: 'td:nth-child(4) sub.text-success | whiteSpaces'
             },
             quarantined:'td:nth-child(5) span.text-blue | whiteSpaces', 
-            deaths:'td:nth-child(6) span | whiteSpaces'
+            deaths:{
+                total:'td:nth-child(6) span | whiteSpaces',
+                new:'td:nth-child(6) sub'
+            }
         }])
     }
     
