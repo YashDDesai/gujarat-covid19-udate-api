@@ -23,7 +23,7 @@ exports.getSingleDistrict = (req, res)=>{
 
 
     let options = {json: true}
-    let jsonURL = `http://${req.hostname}district/all`
+    let jsonURL = `https://${req.hostname}district/all`
     console.log(jsonURL)
     reQ(jsonURL, options, (error, response, body)=>{
          if(error) throw error
