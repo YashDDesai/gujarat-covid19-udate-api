@@ -27,6 +27,11 @@ app.get('/district/:dist', covid.getSingleDistrict
     //}
 )
 app.get('/update', covid.last_update)
+app.get('/time', (req, res)=>{
+    var d = new Date();
+    var n = d.getTime();
+    res.json(n)
+})
 
 const port = process.env.PORT || 3000
 app.listen(port, () => {
