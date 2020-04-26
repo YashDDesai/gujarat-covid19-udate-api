@@ -2,7 +2,8 @@ const express = require('express')
 const fs = require('fs');
 var _ = require("underscore");
 
-const covid = require('./data_model')
+// const covid = require('./data_model')
+const covid = require('./data_model2')
 const app = express()
 
 app.set('case sensitive routing', false);
